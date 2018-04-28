@@ -1,0 +1,22 @@
+{
+  "name": "naturetoursapril2018",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flyingfoxweb/naturetours-april2018.git"
+  },
+  "author": "Erin Brunken",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flyingfoxweb/naturetours-april2018/issues"
+  },
+  "homepage": "https://github.com/flyingfoxweb/naturetours-april2018#readme",
+  "devDependencies": {
+    "node-sass": "^4.8.3"
+  }
+}
